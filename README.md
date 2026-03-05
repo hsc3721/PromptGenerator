@@ -2,6 +2,7 @@
 
 一个轻量级的Web应用，帮助你快速生成和管理AI绘画提示词（Prompt）。
 <img width="1328" height="514" alt="image" src="https://github.com/user-attachments/assets/4d4f95a3-4137-4a5a-bbd3-a5949b965e98" />
+<img width="1273" height="677" alt="image" src="https://github.com/user-attachments/assets/3bad1db3-242b-4957-b2aa-08f857a2238d" />
 
 ## ✨ 主要功能
 

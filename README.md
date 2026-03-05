@@ -1,6 +1,7 @@
 # 🎨 提示词生成器
 
 一个轻量级的Web应用，帮助你快速生成和管理AI绘画提示词（Prompt）。
+<img width="1328" height="514" alt="image" src="https://github.com/user-attachments/assets/4d4f95a3-4137-4a5a-bbd3-a5949b965e98" />
 
 ## ✨ 主要功能
 
